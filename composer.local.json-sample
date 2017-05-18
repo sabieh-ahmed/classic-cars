@@ -5,5 +5,8 @@
 				"extensions/example/composer.json"
 			]
 		}
-	}
+	},
+	"require": {
+                  "mediawiki/semantic-media-wiki": "~2.5"
+        }
 }
